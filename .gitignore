@@ -1,0 +1,76 @@
+# Ignore compiled Python files
+*.pyc
+
+# Ignore Python virtual environment
+venv/
+
+# Ignore IDE specific files
+.vscode/
+.idea/
+
+# Ignore log files
+*.log
+
+# Ignore cache files
+__pycache__/
+
+# Ignore package build files
+dist/
+build/
+
+# Ignore local configuration files
+*.env
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore compiled JavaScript files
+*.js
+
+# Ignore compiled TypeScript files
+*.ts
+
+# Ignore Node.js dependencies
+node_modules/
+
+# Ignore package lock files
+package-lock.json
+yarn.lock
+
+# Ignore editor backup files
+*~
+
+# Ignore temporary files
+.tmp/
+
+# Ignore build output directory
+out/
+
+# Ignore database files
+*.db
+
+# Ignore media files
+*.jpg
+*.png
+*.gif
+
+# Ignore documentation files
+*.pdf
+*.docx
+
+# Ignore compiled binaries
+*.exe
+*.dll
+
+# Ignore archive files
+*.zip
+*.tar.gz
+
+# Ignore configuration files
+config.ini
+config.json
+
+# Ignore sensitive information
+secrets.txt
+credentials.json
