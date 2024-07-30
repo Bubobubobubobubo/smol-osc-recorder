@@ -26,7 +26,7 @@ cd osc-recorder
 3. Install the required dependencies:
 
 ```sh
-pip install -m install .
+python -m pip install .
 ```
 
 ## Usage
