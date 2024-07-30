@@ -1,4 +1,4 @@
-# OSC Recorder
+# Smol OSC Recorder
 
 A CLI tool to record Open Sound Control (OSC) messages, with optional message forwarding.
 
