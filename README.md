@@ -81,6 +81,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - [Python-OSC](https://github.com/attwad/python-osc) for the OSC library.
 - [Click](https://click.palletsprojects.com/) for the command-line interface.
 - [Colorama](https://pypi.org/project/colorama/) for colored terminal output.
-```
-
-This `README.md` provides a comprehensive overview of the project, including installation instructions, usage examples, and a brief description of the code structure.
