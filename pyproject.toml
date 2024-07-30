@@ -18,7 +18,7 @@ classifiers = [
 
 dependencies = [
     "click>8.1.0",
-    "osc4py3>1.0.0",
+    "python-osc>1.8.0",
     "colorama>0.4.4"
 ]
 
