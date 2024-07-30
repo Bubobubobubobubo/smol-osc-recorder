@@ -1,0 +1,7 @@
+click>8.1.0
+osc4py3>1.0.0
+colorama>0.4.4
+
+[test]
+pytest<5.0.0
+pytest-cov[all]
